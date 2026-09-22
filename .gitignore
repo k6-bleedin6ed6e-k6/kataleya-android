@@ -1,0 +1,16 @@
+node_modules/
+app/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+*.apk
+*.apk.idsig
+*.aab
+manifest-checksum.txt
+store_icon.png
+build.gradle
+settings.gradle
+gradle.properties
+build/
+builds/
